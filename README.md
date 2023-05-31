@@ -21,15 +21,15 @@ The binary search tree property allows for efficient searching, insertion, and d
 4. Size: Total number of nodes in the tree.
 
 # Resources
-[Binary tree] (https://intranet.alxswe.com/rltoken/1F2x42-8vUbOmU4L1C1KMg)
+[Binary tree](https://intranet.alxswe.com/rltoken/1F2x42-8vUbOmU4L1C1KMg)
 
-[Data Structure and Algorithms- Tree] (https://intranet.alxswe.com/rltoken/QmcTMCkQyrgMjrqoWxYdhw)
+[Data Structure and Algorithms- Tree](https://intranet.alxswe.com/rltoken/QmcTMCkQyrgMjrqoWxYdhw)
 
-[Tree Traversal] (https://intranet.alxswe.com/rltoken/z6ZaXr_RxwE5nTHAUx_dfQ)
+[Tree Traversal](https://intranet.alxswe.com/rltoken/z6ZaXr_RxwE5nTHAUx_dfQ)
 
-[Binary Search Tree] (https://intranet.alxswe.com/rltoken/qO5dBlMnYJzbaWG3xVpcnQ)
+[Binary Search Tree](https://intranet.alxswe.com/rltoken/qO5dBlMnYJzbaWG3xVpcnQ)
 
-[Data structures:Binary Tree] (https://intranet.alxswe.com/rltoken/BeyJ2gjlE7_djwRiDyeHig)
+[Data structures:Binary Tree](https://intranet.alxswe.com/rltoken/BeyJ2gjlE7_djwRiDyeHig)
 
 
 
@@ -61,14 +61,14 @@ The binary search tree property allows for efficient searching, insertion, and d
 # Authors
 
 q. Chiamaka Anachusi
-[Twitter] (https://www.twitter.com/Anachusichiamak)
+[Twitter](https://www.twitter.com/Anachusichiamak)
 
-[Gmail] (anachusichiamaka32@gmail.com)
+[Gmail](anachusichiamaka32@gmail.com)
 
 
 2. Clement Urah
-[Github] (https://www.github.com/odomodo1)
+[Github](https://www.github.com/odomodo1)
 
-[Twitter] (https//www.twitter.com/oodomodoo)
+[Twitter](https//www.twitter.com/oodomodoo)
 
-[Gmail] (odomodo19@gmail.com) 
+[Gmail](odomodo19@gmail.com) 
