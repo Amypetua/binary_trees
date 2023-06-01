@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-
-=======
 #include "binary_trees.h"
 
 /**
