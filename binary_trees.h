@@ -70,7 +70,7 @@ int heap_extract(heap_t **root);
 int *heap_to_sorted_array(heap_t *heap, size_t *size);
 
 /* helper prototypes */
-size_t binary_tree_height_balance(const binary_tree_t *tree);
+size_t binary_tree_height_b(const binary_tree_t *tree);
 int _pow_recursion(int a, int b);
 
 #endif /* BINARY_TREES_H */
