@@ -75,5 +75,6 @@ int *heap_to_sorted_array(heap_t *heap, size_t *size);
 size_t binary_tree_height_balance(const binary_tree_t *tree);
 int _pow_recursion(int a, int b);
 void btlo_helper(const binary_tree_t *tree, void (*func)(int), size_t level);
+int btic_helper(const binary_tree_t *tree, size_t index, size_t size);
 
 #endif /* BINARY_TREES_H */
